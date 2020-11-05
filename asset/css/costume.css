@@ -20,7 +20,7 @@ h1#judulsection {
 
 /* JUMBOTRON */
 .section#jumbotron {
-    background: url('../img/jumbotronbg.jpg');
+    background: url('../img/bgUniv.jpg');
     background-size: cover;
     background-position: center center;
     height: 450px;
@@ -92,7 +92,7 @@ INI BUAT TAMPILAN DESKTOP
 */
 @media (min-width: 768px) {
     .section#jumbotron {
-        background: url('../img/jumbotronbg.jpg');
+        background: url('../img/bgUniv.jpg');
         background-size: cover;
         background-position: center center;
         height: 550px;
