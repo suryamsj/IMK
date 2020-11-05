@@ -1,10 +1,10 @@
 <section class="section" id="acara">
     <div class="has-text-centered">
-    <a href="page/kegiatan.php">
-        <h1 class="title" id="judulsection">
-            ACARA KAMI
-        </h1>
-    </a>
+        <a href="page/kegiatan.php">
+            <h1 class="title" id="judulsection">
+                ACARA KAMI
+            </h1>
+        </a>
         <div class="container">
             <div class="row">
                 <div class="columns is-multiline">
@@ -23,10 +23,14 @@
                             </div>
                             <div class="card-footer">
                                 <p class="card-footer-item">
-                                    <a href="#"> Share</a>
+                                    <a href="#">
+                                        <ion-icon name="share-social" class="icon is-medium"></ion-icon>
+                                    </a>
                                 </p>
                                 <p class="card-footer-item">
-                                    <a href="#"> View</a>
+                                    <a href="#">
+                                        <ion-icon name="eye" class="icon is-medium"></ion-icon>
+                                    </a>
                                 </p>
                             </div>
                         </div>
@@ -46,10 +50,14 @@
                             </div>
                             <div class="card-footer">
                                 <p class="card-footer-item">
-                                    <a href="#"> Share</a>
+                                    <a href="#">
+                                        <ion-icon name="share-social" class="icon is-medium"></ion-icon>
+                                    </a>
                                 </p>
                                 <p class="card-footer-item">
-                                    <a href="#"> View</a>
+                                    <a href="#">
+                                        <ion-icon name="eye" class="icon is-medium"></ion-icon>
+                                    </a>
                                 </p>
                             </div>
                         </div>
@@ -69,10 +77,14 @@
                             </div>
                             <div class="card-footer">
                                 <p class="card-footer-item">
-                                    <a href="#"> Share</a>
+                                    <a href="#">
+                                        <ion-icon name="share-social" class="icon is-medium"></ion-icon>
+                                    </a>
                                 </p>
                                 <p class="card-footer-item">
-                                    <a href="#"> View</a>
+                                    <a href="#">
+                                        <ion-icon name="eye" class="icon is-medium"></ion-icon>
+                                    </a>
                                 </p>
                             </div>
                         </div>
@@ -92,10 +104,14 @@
                             </div>
                             <div class="card-footer">
                                 <p class="card-footer-item">
-                                    <a href="#"> Share</a>
+                                    <a href="#">
+                                        <ion-icon name="share-social" class="icon is-medium"></ion-icon>
+                                    </a>
                                 </p>
                                 <p class="card-footer-item">
-                                    <a href="#"> View</a>
+                                    <a href="#">
+                                        <ion-icon name="eye" class="icon is-medium"></ion-icon>
+                                    </a>
                                 </p>
                             </div>
                         </div>
