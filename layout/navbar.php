@@ -16,7 +16,6 @@
         <div id="navbarBasicExample" class="navbar-menu">
             <div class="navbar-end">
                 <a class="navbar-item" href="index.php">Home</a>
-                <a class="navbar-item" href="page/about.php">About</a>
                 <div class="navbar-item has-dropdown is-hoverable">
                     <a class="navbar-link">
                         About
