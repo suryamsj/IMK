@@ -1,4 +1,4 @@
-<section class="section">
+<section class="section" id="kegiatan">
     <div class="has-text-centered">
         <h1 class="title" id="judulsection">
             BLOG
@@ -6,66 +6,101 @@
         <div class="container">
             <div class="row">
                 <div class="columns is-multiline">
-                    <div class="column is-4">
-                        <div class="article-card">
-                            <div class="article-card__thumbnail">
-                                <img src="asset/img/gallery/2.jpg" alt="" id="article" />
+                    <div class="column is-3">
+                        <div class="card card-equal-height">
+                            <div class="card-image">
+                                <figure class="image is-4by3">
+                                    <img src="asset/img/gallery/1.jpg" alt="a random image">
+                                </figure>
                             </div>
-                            <div class="article-card__content">
-                                <h2 class="article-card__title">Heading is just a mortal text </h2>
-                                <div class="article-card__excerpt">
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates debitis dignissimos odio sequi ab. Architecto sed laudantium recusandae dolor
-                                    </p>
-                                </div>
-                                <div class="article-card__meta">
-                                    <span class="article-card__timestamp"><i class="ion-clock"></i>6 Min ago</span>
-                                    <span class="article-card__comments"><i class="ion-chatbubbles"></i>32 Comments</span>
+                            <div class="card-content">
+                                <p class="title has-text-centered">Lorem ipsum</p>
+                                <div class="content">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique excepturi cumque dolor accusamus rem in officia nisi ad blanditiis quos iste quasi, ullam ea non eveniet quod dolorem sunt odit!</p>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div class="column is-4">
-                        <div class="article-card">
-                            <div class="article-card__thumbnail">
-                                <img src="asset/img/gallery/2.jpg" alt="" id="article" />
-                            </div>
-                            <div class="article-card__content">
-                                <h2 class="article-card__title">Heading is just a mortal text </h2>
-                                <div class="article-card__excerpt">
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates debitis dignissimos odio sequi ab. Architecto sed laudantium recusandae dolor
-                                    </p>
-                                </div>
-                                <div class="article-card__meta">
-                                    <span class="article-card__timestamp"><i class="ion-clock"></i>6 Min ago</span>
-                                    <span class="article-card__comments"><i class="ion-chatbubbles"></i>32 Comments</span>
-                                </div>
+                            <div class="card-footer">
+                                <p class="card-footer-item">
+                                    <span>Share on <a href="#"> Facebook</a></span>
+                                </p>
+                                <p class="card-footer-item">
+                                    <span>View on <a href="#"> Twitter</a></span>
+                                </p>
                             </div>
                         </div>
                     </div>
-                    <div class="column is-4">
-                        <div class="article-card">
-                            <div class="article-card__thumbnail">
-                                <img src="asset/img/gallery/2.jpg" alt="" id="article" />
+                    <div class="column is-3">
+                        <div class="card card-equal-height">
+                            <div class="card-image">
+                                <figure class="image is-4by3">
+                                    <img src="asset/img/gallery/2.jpg" alt="a random image">
+                                </figure>
                             </div>
-                            <div class="article-card__content">
-                                <h2 class="article-card__title">Heading is just a mortal text </h2>
-                                <div class="article-card__excerpt">
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates debitis dignissimos odio sequi ab. Architecto sed laudantium recusandae dolor
-                                    </p>
+                            <div class="card-content">
+                                <p class="title has-text-centered">Lorem ipsum</p>
+                                <div class="content">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique excepturi cumque dolor accusamus rem in officia nisi ad blanditiis quos iste quasi, ullam ea non eveniet quod dolorem sunt odit!</p>
                                 </div>
-                                <div class="article-card__meta">
-                                    <span class="article-card__timestamp"><i class="ion-clock"></i>6 Min ago</span>
-                                    <span class="article-card__comments"><i class="ion-chatbubbles"></i>32 Comments</span>
+                            </div>
+                            <div class="card-footer">
+                                <p class="card-footer-item">
+                                    <span>Share on <a href="#"> Facebook</a></span>
+                                </p>
+                                <p class="card-footer-item">
+                                    <span>View on <a href="#"> Twitter</a></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column is-3">
+                        <div class="card card-equal-height">
+                            <div class="card-image">
+                                <figure class="image is-4by3">
+                                    <img src="asset/img/gallery/3.jpg" alt="a random image">
+                                </figure>
+                            </div>
+                            <div class="card-content">
+                                <p class="title has-text-centered">Lorem ipsum</p>
+                                <div class="content">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique excepturi cumque dolor accusamus rem in officia nisi ad blanditiis quos iste quasi, ullam ea non eveniet quod dolorem sunt odit!</p>
                                 </div>
+                            </div>
+                            <div class="card-footer">
+                                <p class="card-footer-item">
+                                    <span>Share on <a href="#"> Facebook</a></span>
+                                </p>
+                                <p class="card-footer-item">
+                                    <span>View on <a href="#"> Twitter</a></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column is-3">
+                        <div class="card card-equal-height">
+                            <div class="card-image">
+                                <figure class="image is-4by3">
+                                    <img src="asset/img/gallery/4.jpg" alt="a random image">
+                                </figure>
+                            </div>
+                            <div class="card-content">
+                                <p class="title has-text-centered">Lorem ipsum</p>
+                                <div class="content">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique excepturi cumque dolor accusamus rem in officia nisi ad blanditiis quos iste quasi, ullam ea non eveniet quod dolorem sunt odit!</p>
+                                </div>
+                            </div>
+                            <div class="card-footer">
+                                <p class="card-footer-item">
+                                    <span>Share on <a href="#"> Facebook</a></span>
+                                </p>
+                                <p class="card-footer-item">
+                                    <span>View on <a href="#"> Twitter</a></span>
+                                </p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="buttons is-centered">
-                    <button class="button is-link">More Article</button>
+                    <a class="button is-link" href="page/blog">ke Blog</a>
                 </div>
             </div>
         </div>

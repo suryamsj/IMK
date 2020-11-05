@@ -2,6 +2,17 @@
 INI BUAT TAMPILAN MOBILE
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+/* navbar */
+.navbar-item img {
+    width: 180px;
+    height: auto;
+}
+
+
+
 h1#judulsection {
     margin-top: 10px;
     margin-bottom: 50px;
@@ -11,8 +22,9 @@ h1#judulsection {
 .section#jumbotron {
     background: url('../img/jumbotronbg.jpg');
     background-size: cover;
-    background-position: center;
-    height: 550px;
+    background-position: center center;
+    height: 450px;
+    background-attachment: fixed;
 }
 
 #jumbotron-text {
@@ -20,8 +32,9 @@ h1#judulsection {
 }
 
 #jumbotron-text h1 {
-    font-size: 70px;
+    font-size: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -50px;
 }
 
 #jumbotron-text p {
@@ -42,9 +55,9 @@ button#kegiatan {
 }
 
 button#kegiatan:hover {
-    background: steelblue;
+    background: #3273DC;
     color: #ffffff;
-    border: 2px solid steelblue;
+    border: 2px solid #3273DC;
 }
 
 /* KEGIATAN */
@@ -52,86 +65,51 @@ section#kegiatan {
     background: whitesmoke;
 }
 
-/* BLOG */
-.article-card {
-    max-width: 350px;
-    height: 425px;
-    margin: 10px auto;
-    background: #fff;
-    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .1);
-    transition: transform 0.3s ease-out;
-    border-radius: 1em 1em 0.5em 0.5em;
-}
-
-.article-card:hover {
-    transform: scale(1.08);
-    box-shadow: 0 10px 10px rgba(0, 0, 0, .1);
-}
-
-.article-card:hover .article-card__excerpt {
-    height: 116px;
-    visibility: visible;
-}
-
-.article-card:hover .article-card__thumbnail {
-    height: 170px;
-}
-
-.article-card:hover .article-card__thumbnail img {
-    transform: scale(1.4);
-}
-
-.article-card__thumbnail {
+/* MAPS */
+.map-responsive {
     overflow: hidden;
-    height: 286px;
-    transition: all 0.5s ease;
-    border-radius: 0.5em 0.5em 0 0;
-    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
 }
 
-.article-card__thumbnail img {
-    transition: all 0.5s ease;
+.map-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
 }
 
-img#article {
-    max-width: 100%;
-    height: auto;
-    transition: transform 1s ease-out;
-}
-
-.article-card__content {
-    padding: 30px;
-}
-
-.article-card__title {
-    margin: 0;
-    font-size: 1.5em;
-    line-height: 1.3em;
-    margin-bottom: 10px;
-}
-
-.article-card__meta {
-    color: #777;
-}
-
-.article-card__meta i {
-    margin-right: 5px;
-    display: inline-block;
-    font-size: 15px;
-}
-
-.article-card__timestamp {
-    display: inline-block;
-    margin-right: 15px;
-}
-
-.article-card__excerpt {
-    height: 1px;
-    visibility: hidden;
-    overflow: hidden;
-    transition: all 0.3s ease;
+/* FOOTER */
+footer.footer {
+    padding: 10px;
+    background: #ffffff;
 }
 
 /* 
 INI BUAT TAMPILAN DESKTOP
 */
+@media (min-width: 768px) {
+    .section#jumbotron {
+        background: url('../img/jumbotronbg.jpg');
+        background-size: cover;
+        background-position: center center;
+        height: 550px;
+        background-attachment: fixed;
+    }
+
+    #jumbotron-text {
+        margin-top: 150px;
+    }
+
+    #jumbotron-text h1 {
+        font-size: 70px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    #jumbotron-text p {
+        font-size: 30px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+}

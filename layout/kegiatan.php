@@ -8,12 +8,12 @@
             <div class="columns is-multiline">
                 <div class="column is-3">
                     <figure class="image is-square">
-                        <a href="#"><img src="asset/img/gallery/1.jpg" alt="" srcset=""></a>
+                        <a href="asset/img/gallery/1.jpg"><img src="asset/img/gallery/1.jpg" title="gambar 1" /></a>
                     </figure>
                 </div>
                 <div class="column is-3">
                     <figure class="image is-square">
-                        <a href="#"><img src="asset/img/gallery/2.jpg" alt="" srcset=""></a>
+                        <a href="asset/img/gallery/2.jpg"><img src="asset/img/gallery/2.jpg" alt="" srcset=""></a>
                     </figure>
                 </div>
                 <div class="column is-3">

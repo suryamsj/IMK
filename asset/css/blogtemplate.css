@@ -1,0 +1,10 @@
+/* navbar */
+.navbar-item img {
+    width: 180px;
+    height: auto;
+}
+
+/* FOOTER */
+footer.footer {
+    padding: 10px;
+}

@@ -9,6 +9,10 @@
     <link rel="stylesheet" href="asset/css/bulma.min.css">
     <!-- Costume CSS -->
     <link rel="stylesheet" href="asset/css/costume.css">
+    <!-- Blog CSS -->
+    <link rel="stylesheet" href="asset/css/blog.css">
+    <!-- Animasi -->
+    <link rel="stylesheet" href="asset/css/animate.min.css" />
 </head>
 
 <body>
@@ -24,10 +28,24 @@
     <?php require('layout/kegiatan.php') ?>
     <!-- AKHIR KEGIATAN -->
 
-    <!-- MEDIA PARTNER -->
+    <!-- VISI MISI -->
+    <?php require('layout/visimisi.php') ?>
+    <!-- AKHIR VISI MISI -->
+
+    <!-- BLOG -->
     <?php require('layout/blog.php') ?>
-    <!-- AKHIR MEDIA PARTNER -->
+    <!-- AKHIR BLOG -->
+
+    <!-- FOOTER ATAS -->
+    <?php require('layout/atasfooter.php') ?>
+    <!-- AKHIR FOOTER ATAS -->
+
+    <!-- MEDIA FOOTER -->
+    <?php require('layout/footer.php') ?>
+    <!-- AKHIR MEDIA FOOTER -->
+
     <!-- Javascript -->
+    <script src="asset/js/main.js"></script>
 </body>
 
 </html>
