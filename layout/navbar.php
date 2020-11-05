@@ -16,9 +16,11 @@
         <div id="navbarBasicExample" class="navbar-menu">
             <div class="navbar-end">
                 <a class="navbar-item" href="index.php">Home</a>
+                <a class="navbar-item" href="#">Acara</a>
+                <a class="navbar-item" href="#">Tentang</a>
                 <div class="navbar-item has-dropdown is-hoverable">
                     <a class="navbar-link">
-                        About
+                        More
                     </a>
 
                     <div class="navbar-dropdown">
@@ -29,7 +31,7 @@
                             Struktur Oraganisasi
                         </a>
                         <a class="navbar-item" href="page/#">
-                            Contact
+                            Contact Us
                         </a>
                     </div>
                 </div>

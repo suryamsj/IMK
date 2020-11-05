@@ -1,8 +1,10 @@
-<section class="section" id="kegiatan">
+<section class="section" id="acara">
     <div class="has-text-centered">
+    <a href="page/kegiatan.php">
         <h1 class="title" id="judulsection">
-            BLOG
+            ACARA KAMI
         </h1>
+    </a>
         <div class="container">
             <div class="row">
                 <div class="columns is-multiline">
@@ -21,10 +23,10 @@
                             </div>
                             <div class="card-footer">
                                 <p class="card-footer-item">
-                                    <span>Share on <a href="#"> Facebook</a></span>
+                                    <a href="#"> Share</a>
                                 </p>
                                 <p class="card-footer-item">
-                                    <span>View on <a href="#"> Twitter</a></span>
+                                    <a href="#"> View</a>
                                 </p>
                             </div>
                         </div>
@@ -44,10 +46,10 @@
                             </div>
                             <div class="card-footer">
                                 <p class="card-footer-item">
-                                    <span>Share on <a href="#"> Facebook</a></span>
+                                    <a href="#"> Share</a>
                                 </p>
                                 <p class="card-footer-item">
-                                    <span>View on <a href="#"> Twitter</a></span>
+                                    <a href="#"> View</a>
                                 </p>
                             </div>
                         </div>
@@ -67,10 +69,10 @@
                             </div>
                             <div class="card-footer">
                                 <p class="card-footer-item">
-                                    <span>Share on <a href="#"> Facebook</a></span>
+                                    <a href="#"> Share</a>
                                 </p>
                                 <p class="card-footer-item">
-                                    <span>View on <a href="#"> Twitter</a></span>
+                                    <a href="#"> View</a>
                                 </p>
                             </div>
                         </div>
@@ -90,17 +92,14 @@
                             </div>
                             <div class="card-footer">
                                 <p class="card-footer-item">
-                                    <span>Share on <a href="#"> Facebook</a></span>
+                                    <a href="#"> Share</a>
                                 </p>
                                 <p class="card-footer-item">
-                                    <span>View on <a href="#"> Twitter</a></span>
+                                    <a href="#"> View</a>
                                 </p>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="buttons is-centered">
-                    <a class="button is-link" href="page/blog">ke Blog</a>
                 </div>
             </div>
         </div>

@@ -25,16 +25,16 @@
     <!-- AKHIR JUMBOTRON -->
 
     <!-- KEGIATAN -->
-    <?php require('layout/kegiatan.php') ?>
+    <?php require('layout/acara.php') ?>
     <!-- AKHIR KEGIATAN -->
+
+    <!-- Struktur Organisasi -->
+    <?php require('layout/anggota.php') ?>
+    <!-- AKHIR Struktur Organisasi -->
 
     <!-- VISI MISI -->
     <?php require('layout/visimisi.php') ?>
     <!-- AKHIR VISI MISI -->
-
-    <!-- BLOG -->
-    <?php require('layout/blog.php') ?>
-    <!-- AKHIR BLOG -->
 
     <!-- FOOTER ATAS -->
     <?php require('layout/atasfooter.php') ?>
