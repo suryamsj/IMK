@@ -1,8 +1,8 @@
 <nav class="navbar is-fixed-top has-shadow" role="navigation" aria-label="main navigation">
     <div class="container">
         <div class="navbar-brand">
-            <a class="navbar-item" href="index.php">
-                <img src="asset/img/koksusahya.png" width="250" height="25">
+            <a href="index.php">
+                <img src="asset/img/logoHimatika.png" width="250" height="100">
             </a>
 
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false"
