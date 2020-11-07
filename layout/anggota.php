@@ -9,7 +9,7 @@
             <div class="columns is-multiline">
                 <div class="column">
                     <div class="team-card-style-3">
-                        <div class="team-thumb"><img src="asset/img/anggota/aldi.jpeg" alt="Team Member Picture">
+                        <div class="team-thumb"><img src="asset/img/anggota/man.png" alt="Team Member Picture">
                         </div><span class="team-position">Ketua Himatika</span>
                         <h4 class="team-name">Tatang Su Tatang</h4><a class="team-contact-link" href="tel:+6212345678">
                             <ion-icon name="call"></ion-icon></i>&nbsp;+6212345678
@@ -23,9 +23,9 @@
                 </div>
                 <div class="column">
                     <div class="team-card-style-3">
-                        <div class="team-thumb"><img src="asset/img/anggota/aldi.jpeg" alt="Team Member Picture">
+                        <div class="team-thumb"><img src="asset/img/anggota/girl.png" alt="Team Member Picture">
                         </div><span class="team-position">Wakil Ketua Himatika</span>
-                        <h4 class="team-name">Asep Karasep</h4><a class="team-contact-link" href="tel:+6212345678">
+                        <h4 class="team-name">Ita Nuri</h4><a class="team-contact-link" href="tel:+6212345678">
                             <ion-icon name="call"></ion-icon>&nbsp;+6212345678
                         </a><a class="team-contact-link" href="mailto:info@example.com">
                             <ion-icon name="mail"></ion-icon>&nbsp;info@example.com
@@ -37,7 +37,7 @@
                 </div>
                 <div class="column">
                     <div class="team-card-style-3">
-                        <div class="team-thumb"><img src="asset/img/anggota/aldi.jpeg" alt="Team Member Picture">
+                        <div class="team-thumb"><img src="asset/img/anggota/man.png" alt="Team Member Picture">
                         </div><span class="team-position">Sekretaris Himatika</span>
                         <h4 class="team-name">Didit Suderajat</h4><a class="team-contact-link" href="tel:+6212345678">
                             <ion-icon name="call"></ion-icon></i>&nbsp;+6212345678
