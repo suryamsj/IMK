@@ -12,9 +12,9 @@
         </div>
         <div id="navbarBasicExample" class="navbar-menu">
             <div class="navbar-end">
-                <a class="navbar-item" href="index.php">Home</a>
-                <a class="navbar-item" href="#">Acara</a>
-                <a class="navbar-item" href="#">Tentang</a>
+                <a class="navbar-item" href="index.php?halaman=home">Home</a>
+                <a class="navbar-item" href="index.php?halaman=acara">Acara</a>
+                <a class="navbar-item" href="index.php?halaman=tentang">Tentang</a>
                 <div class="navbar-item has-dropdown is-hoverable">
                     <a class="navbar-link">
                         More
