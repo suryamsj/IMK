@@ -15,5 +15,5 @@
     <!-- AKHIR VISI MISI -->
 
     <!-- FOOTER ATAS -->
-    <?php require('layout/atasfooter.php') ?>
+    <!-- require('layout/atasfooter.php') -->
     <!-- AKHIR FOOTER ATAS -->

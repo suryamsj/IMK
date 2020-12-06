@@ -2,7 +2,7 @@
     <div class="container">
         <div class="navbar-brand">
             <a href="index.php">
-                <img src="asset/img/logoHimatika.png" width="250" height="100">
+                <img src="asset/img/logohimatika.png" width="250" height="100">
             </a>
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
                 <span aria-hidden="true"></span>
