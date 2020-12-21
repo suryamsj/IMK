@@ -15,22 +15,7 @@
                 <a class="navbar-item" href="index.php?halaman=home">Home</a>
                 <a class="navbar-item" href="index.php?halaman=acara">Acara</a>
                 <a class="navbar-item" href="index.php?halaman=tentang">Tentang</a>
-                <div class="navbar-item has-dropdown is-hoverable">
-                    <a class="navbar-link">
-                        More
-                    </a>
-                    <div class="navbar-dropdown">
-                        <a class="navbar-item" href="page/about.php">
-                            Visi & Misi
-                        </a>
-                        <a class="navbar-item" href="page/#">
-                            Struktur Oraganisasi
-                        </a>
-                        <a class="navbar-item" href="page/#">
-                            Contact Us
-                        </a>
-                    </div>
-                </div>
+                <a class="navbar-item" href="index.php?halaman=kontak">Kontak</a>
             </div>
         </div>
     </div>

@@ -5,7 +5,7 @@
                 <h1 class="title animate__animated animate__fadeInDown">HIMATIKA</h1>
                 <p class="subtitle animate__animated animate__fadeInDown">UNIVERSITAS TRILOGI</p>
                 <div class="buttons is-centered animate__animated animate__fadeInDown">
-                    <button class="button is-link" id="kegiatan">Kegiatan Terbaru</button>
+                    <button class="button is-link hvr-bounce-to-right" id="kegiatan">Kegiatan Terbaru</button>
                 </div>
             </div>
         </div>

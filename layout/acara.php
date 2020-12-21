@@ -2,7 +2,7 @@
     <div class="has-text-centered">
         <a href="page/kegiatan.php">
             <h1 class="title" id="judulsection">
-                ACARA KAMI
+                KEGIATAN TERBARU
             </h1>
         </a>
         <div class="container">

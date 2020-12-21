@@ -7,22 +7,13 @@ if (isset($_GET['halaman'])) {
             include "page/home/home.php";
             break;
         case 'acara':
-            include "page/acara/acara.php";
+            include "page/blog/blog.php";
             break;
         case 'tentang':
             include "page/about/about.php";
             break;
-        case 'ubahmhs':
-            include "page/mahasiswa/edit.php";
-            break;
-        case 'hapusmhs':
-            include "page/mahasiswa/delete.php";
-            break;
-        case 'fakultas':
-            include "page/fakultas/index.php";
-            break;
-        case 'jurusan':
-            include "page/jurusan/index.php";
+        case 'kontak':
+            include "page/kontak/kontak.php";
             break;
     }
 } else {

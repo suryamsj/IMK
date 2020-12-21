@@ -12,7 +12,9 @@
     <!-- Blog CSS -->
     <link rel="stylesheet" href="asset/css/blog.css">
     <!-- Animasi -->
-    <link rel="stylesheet" href="asset/css/animate.min.css" />
+    <link rel="stylesheet" href="asset/css/animate.min.css">
+    <!-- Hover.css -->
+    <link rel="stylesheet" href="asset/css/hover-min.css">
 </head>
 
 <body>

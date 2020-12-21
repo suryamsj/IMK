@@ -4,6 +4,10 @@ INI BUAT TAMPILAN MOBILE
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+/* Utilitis */
+p.justify {
+    text-align: justify;
+}
 
 /* navbar */
 .navbar-item img {
@@ -53,7 +57,7 @@ button#kegiatan {
 }
 
 button#kegiatan:hover {
-    background: #3273DC;
+    /* background: #3273DC; */
     color: #ffffff;
     border: 2px solid #3273DC;
 }
