@@ -12,7 +12,8 @@
         </div>
         <div id="navbarBasicExample" class="navbar-menu">
             <div class="navbar-end">
-                <a class="navbar-item" href="index.php?halaman=home">Home</a>
+                <a class="navbar-item" href="index.php?halaman=home">Beranda</a>
+                <a class="navbar-item" href="index.php?halaman=anggota">Anggota</a>
                 <a class="navbar-item" href="index.php?halaman=acara">Acara</a>
                 <a class="navbar-item" href="index.php?halaman=tentang">Tentang</a>
                 <a class="navbar-item" href="index.php?halaman=kontak">Kontak</a>

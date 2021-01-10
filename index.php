@@ -31,7 +31,11 @@
     <!-- AKHIR MEDIA FOOTER -->
 
     <!-- Javascript -->
+
+    <!-- Icon -->
     <script src="https://unpkg.com/ionicons@5.2.3/dist/ionicons.js"></script>
+
+    <!-- Main -->
     <script src="asset/js/main.js"></script>
 </body>
 

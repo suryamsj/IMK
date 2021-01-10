@@ -6,6 +6,9 @@ if (isset($_GET['halaman'])) {
         case 'home':
             include "page/home/home.php";
             break;
+        case 'anggota':
+            include "page/anggota/anggota.php";
+            break;
         case 'acara':
             include "page/blog/blog.php";
             break;
